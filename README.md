@@ -1,5 +1,7 @@
 ![image](images/confluent-logo-300-2.png)
 
+Hi
+
 # cp-all-in-one
 
 1. `cp-all-in-one`: Confluent Enterprise License version of Confluent Platform, including Confluent Server,
